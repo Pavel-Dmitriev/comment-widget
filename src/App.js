@@ -1,6 +1,6 @@
 import React from 'react';
 import CommentItem from "./comment-item";
-import CommentForm from "./comment-form";
+import {CommentForm} from "./comment-form";
 
 class App extends React.Component {
   constructor(props) {
